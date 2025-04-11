@@ -1,0 +1,8 @@
+
+We split up the main parts of the coding in three: 
+- Richard: Optimizing and fidelity calculation
+- Kaushik: Recovery
+- Lina: Encoding (and some recovery)
+
+When setting putting the whole project together we all worked together. 
+The presentation and report was also done all together. 
