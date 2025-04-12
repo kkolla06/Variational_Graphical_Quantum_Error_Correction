@@ -1,8 +1,7 @@
 
-We split up the main parts of the coding in three: 
+We split up the main parts of the code structure among the three of us: 
 - Richard: Optimizing and fidelity calculation
 - Kaushik: Recovery
-- Lina: Encoding (and some recovery)
+- Lina: Encoding 
 
-When setting putting the whole project together we all worked together. 
-The presentation and report was also done all together. 
+We worked together for the rest of the project including preparing the presentation, working on the report as well as the final submission. All members contributed equally.
