@@ -1,4 +1,4 @@
-pennylane
-numpy
-matplotlib
-torch
+pennylane ==
+numpy ==
+matplotlib ==
+torch == 

@@ -1,7 +1,22 @@
 
-We split up the main parts of the code structure among the three of us: 
+We originally split up the main parts of the code structure among the three of us: 
 - Richard: Optimizing and fidelity calculation
 - Kaushik: Recovery
 - Lina: Encoding 
 
-We worked together for the rest of the project including preparing the presentation, working on the report as well as the final submission. All members contributed equally.
+For the software implementation:
+
+- Unitary functions: Richard and Lina
+- 5- and 3-qubit VGQEC functions: Lina and Kaushik
+- 5- and 3-qubit repetition functions: Lina 
+- 5- and 3-qubit repetition and no protection noise parameters: Richard
+- Optimization 5- and 3-qubit VGQEC for noise parameters: Richard
+- Display plot for all methods of 5- and 3-qubits for noise parameters: Richard and Kaushik
+
+- [5,1,3] recovery code (not used in final implementation) - Kaushik
+
+We all collaborated to integrate all the implemented components so they functioned cohesively.
+
+We worked together for the rest of the project including preparing the presentation, working on the report as well as the final submission.
+All members contributed equally.
+
